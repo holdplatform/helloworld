@@ -1,7 +1,7 @@
 # helloworld
 This is a web project that does XYZ. It’s designed to solve problems in ABC domain.
 
-![Build Status]([https://img.shields.io/badge/build-passing-brightgreen](https://img.shields.io/badge/Smart_Contract-Holdplatform_V2-blue))
+![Build Status](https://img.shields.io/badge/Smart_Contract-Holdplatform_V2-blue)
 
 
 ## License
